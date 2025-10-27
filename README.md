@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @catherinepope
 - 👀 I’m interested in technical communication, including video and docs.
-- 🌱 I’m currently learning Adobe After Effects
+- 🌱 I’m currently learning Tailwind
 - 💞️ I’m looking to collaborate on anything! (I'm very suggestible)
 - 📫 How to reach me: [@drcatherinepope](https://www.linkedin.com/in/drcatherinepope/)
 
